@@ -1,0 +1,6 @@
+name: AntiToolBox
+description: This plugin kicks toolbox players
+version: 1.0
+api: 4.0.0
+main: ItsToxicGG\AntiToolBox\Main
+author: ItsToxicGG
